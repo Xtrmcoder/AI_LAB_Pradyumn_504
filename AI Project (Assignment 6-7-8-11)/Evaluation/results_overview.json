@@ -1,0 +1,542 @@
+{
+    "lstm": {
+        "2": {
+            "macro-precision": 78.0,
+            "macro-recall": 77.76,
+            "macro-f1": 77.87,
+            "weighted-precision": 79.82,
+            "weighted-recall": 79.9,
+            "weighted-f1": 79.85
+        },
+        "3": {
+            "macro-precision": 77.3,
+            "macro-recall": 77.42,
+            "macro-f1": 77.32,
+            "weighted-precision": 77.38,
+            "weighted-recall": 76.9,
+            "weighted-f1": 77.12
+        },
+        "4": {
+            "macro-precision": 67.58,
+            "macro-recall": 67.34,
+            "macro-f1": 67.04,
+            "weighted-precision": 66.25,
+            "weighted-recall": 64.77,
+            "weighted-f1": 64.97
+        },
+        "5": {
+            "macro-precision": 64.78,
+            "macro-recall": 62.66,
+            "macro-f1": 63.47,
+            "weighted-precision": 63.83,
+            "weighted-recall": 62.55,
+            "weighted-f1": 62.95
+        },
+        "6": {
+            "macro-precision": 63.21,
+            "macro-recall": 62.66,
+            "macro-f1": 62.76,
+            "weighted-precision": 63.15,
+            "weighted-recall": 63.25,
+            "weighted-f1": 63.06
+        },
+        "7": {
+            "macro-precision": 59.61,
+            "macro-recall": 60.57,
+            "macro-f1": 60.0,
+            "weighted-precision": 60.61,
+            "weighted-recall": 60.86,
+            "weighted-f1": 60.67
+        },
+        "8": {
+            "macro-precision": 54.31,
+            "macro-recall": 55.91,
+            "macro-f1": 54.84,
+            "weighted-precision": 54.38,
+            "weighted-recall": 54.32,
+            "weighted-f1": 54.13
+        },
+        "9": {
+            "macro-precision": 50.04,
+            "macro-recall": 49.06,
+            "macro-f1": 49.47,
+            "weighted-precision": 51.21,
+            "weighted-recall": 50.86,
+            "weighted-f1": 50.98
+        },
+        "10": {
+            "macro-precision": 49.82,
+            "macro-recall": 50.2,
+            "macro-f1": 49.62,
+            "weighted-precision": 51.23,
+            "weighted-recall": 50.32,
+            "weighted-f1": 50.53
+        },
+        "11": {
+            "macro-precision": 44.66,
+            "macro-recall": 45.05,
+            "macro-f1": 44.69,
+            "weighted-precision": 46.96,
+            "weighted-recall": 47.31,
+            "weighted-f1": 46.94
+        },
+        "12": {
+            "macro-precision": 44.86,
+            "macro-recall": 45.62,
+            "macro-f1": 45.06,
+            "weighted-precision": 47.49,
+            "weighted-recall": 47.51,
+            "weighted-f1": 47.33
+        }
+    },
+    "lstm_glove": {
+        "2": {
+            "macro-precision": 75.46,
+            "macro-recall": 74.43,
+            "macro-f1": 74.87,
+            "weighted-precision": 77.18,
+            "weighted-recall": 77.51,
+            "weighted-f1": 77.28
+        },
+        "3": {
+            "macro-precision": 75.73,
+            "macro-recall": 75.42,
+            "macro-f1": 75.57,
+            "weighted-precision": 75.63,
+            "weighted-recall": 75.67,
+            "weighted-f1": 75.64
+        },
+        "4": {
+            "macro-precision": 67.37,
+            "macro-recall": 66.63,
+            "macro-f1": 66.83,
+            "weighted-precision": 65.2,
+            "weighted-recall": 65.16,
+            "weighted-f1": 64.95
+        },
+        "5": {
+            "macro-precision": 65.1,
+            "macro-recall": 61.77,
+            "macro-f1": 62.98,
+            "weighted-precision": 62.56,
+            "weighted-recall": 62.13,
+            "weighted-f1": 62.05
+        },
+        "6": {
+            "macro-precision": 63.42,
+            "macro-recall": 62.85,
+            "macro-f1": 63.09,
+            "weighted-precision": 63.38,
+            "weighted-recall": 63.19,
+            "weighted-f1": 63.25
+        },
+        "7": {
+            "macro-precision": 60.81,
+            "macro-recall": 60.4,
+            "macro-f1": 60.51,
+            "weighted-precision": 61.32,
+            "weighted-recall": 61.0,
+            "weighted-f1": 61.09
+        },
+        "8": {
+            "macro-precision": 54.19,
+            "macro-recall": 56.0,
+            "macro-f1": 54.74,
+            "weighted-precision": 53.74,
+            "weighted-recall": 54.42,
+            "weighted-f1": 53.65
+        },
+        "9": {
+            "macro-precision": 50.13,
+            "macro-recall": 50.88,
+            "macro-f1": 50.14,
+            "weighted-precision": 51.85,
+            "weighted-recall": 52.29,
+            "weighted-f1": 51.84
+        },
+        "10": {
+            "macro-precision": 48.36,
+            "macro-recall": 49.74,
+            "macro-f1": 48.7,
+            "weighted-precision": 49.98,
+            "weighted-recall": 50.3,
+            "weighted-f1": 49.9
+        },
+        "11": {
+            "macro-precision": 45.89,
+            "macro-recall": 45.1,
+            "macro-f1": 45.37,
+            "weighted-precision": 48.86,
+            "weighted-recall": 48.35,
+            "weighted-f1": 48.47
+        },
+        "12": {
+            "macro-precision": 46.23,
+            "macro-recall": 45.92,
+            "macro-f1": 45.94,
+            "weighted-precision": 48.07,
+            "weighted-recall": 47.85,
+            "weighted-f1": 47.87
+        }
+    },
+    "naive_bayes_bernoulli": {
+        "2": {
+            "macro-precision": 77.69,
+            "macro-recall": 78.3,
+            "macro-f1": 77.96,
+            "weighted-precision": 79.94,
+            "weighted-recall": 79.66,
+            "weighted-f1": 79.77
+        },
+        "3": {
+            "macro-precision": 80.77,
+            "macro-recall": 80.45,
+            "macro-f1": 80.55,
+            "weighted-precision": 80.75,
+            "weighted-recall": 80.26,
+            "weighted-f1": 80.46
+        },
+        "4": {
+            "macro-precision": 73.12,
+            "macro-recall": 73.55,
+            "macro-f1": 73.19,
+            "weighted-precision": 72.25,
+            "weighted-recall": 71.63,
+            "weighted-f1": 71.83
+        },
+        "5": {
+            "macro-precision": 73.39,
+            "macro-recall": 71.49,
+            "macro-f1": 72.11,
+            "weighted-precision": 71.46,
+            "weighted-recall": 70.61,
+            "weighted-f1": 70.83
+        },
+        "6": {
+            "macro-precision": 73.34,
+            "macro-recall": 70.92,
+            "macro-f1": 71.64,
+            "weighted-precision": 71.53,
+            "weighted-recall": 70.57,
+            "weighted-f1": 70.79
+        },
+        "7": {
+            "macro-precision": 68.0,
+            "macro-recall": 68.41,
+            "macro-f1": 66.85,
+            "weighted-precision": 69.42,
+            "weighted-recall": 67.16,
+            "weighted-f1": 67.63
+        },
+        "8": {
+            "macro-precision": 64.27,
+            "macro-recall": 64.36,
+            "macro-f1": 62.98,
+            "weighted-precision": 64.04,
+            "weighted-recall": 62.25,
+            "weighted-f1": 62.39
+        },
+        "9": {
+            "macro-precision": 63.38,
+            "macro-recall": 61.67,
+            "macro-f1": 61.07,
+            "weighted-precision": 62.98,
+            "weighted-recall": 61.12,
+            "weighted-f1": 61.21
+        },
+        "10": {
+            "macro-precision": 61.84,
+            "macro-recall": 61.89,
+            "macro-f1": 60.31,
+            "weighted-precision": 62.37,
+            "weighted-recall": 60.43,
+            "weighted-f1": 60.46
+        },
+        "11": {
+            "macro-precision": 58.42,
+            "macro-recall": 57.7,
+            "macro-f1": 56.37,
+            "weighted-precision": 59.81,
+            "weighted-recall": 58.37,
+            "weighted-f1": 58.08
+        },
+        "12": {
+            "macro-precision": 58.44,
+            "macro-recall": 58.03,
+            "macro-f1": 56.7,
+            "weighted-precision": 59.57,
+            "weighted-recall": 58.24,
+            "weighted-f1": 57.94
+        }
+    },
+    "naive_bayes_multinomial": {
+        "2": {
+            "macro-precision": 73.6,
+            "macro-recall": 75.03,
+            "macro-f1": 74.03,
+            "weighted-precision": 76.73,
+            "weighted-recall": 75.5,
+            "weighted-f1": 75.86
+        },
+        "3": {
+            "macro-precision": 76.08,
+            "macro-recall": 78.63,
+            "macro-f1": 77.06,
+            "weighted-precision": 77.3,
+            "weighted-recall": 76.47,
+            "weighted-f1": 76.57
+        },
+        "4": {
+            "macro-precision": 68.65,
+            "macro-recall": 71.32,
+            "macro-f1": 69.57,
+            "weighted-precision": 68.82,
+            "weighted-recall": 68.3,
+            "weighted-f1": 68.18
+        },
+        "5": {
+            "macro-precision": 69.36,
+            "macro-recall": 68.9,
+            "macro-f1": 68.51,
+            "weighted-precision": 67.97,
+            "weighted-recall": 67.11,
+            "weighted-f1": 67.06
+        },
+        "6": {
+            "macro-precision": 69.89,
+            "macro-recall": 69.19,
+            "macro-f1": 68.78,
+            "weighted-precision": 69.08,
+            "weighted-recall": 68.4,
+            "weighted-f1": 68.23
+        },
+        "7": {
+            "macro-precision": 66.97,
+            "macro-recall": 67.17,
+            "macro-f1": 66.37,
+            "weighted-precision": 67.28,
+            "weighted-recall": 66.74,
+            "weighted-f1": 66.52
+        },
+        "8": {
+            "macro-precision": 62.3,
+            "macro-recall": 62.94,
+            "macro-f1": 61.83,
+            "weighted-precision": 61.66,
+            "weighted-recall": 61.24,
+            "weighted-f1": 60.92
+        },
+        "9": {
+            "macro-precision": 60.98,
+            "macro-recall": 60.41,
+            "macro-f1": 59.82,
+            "weighted-precision": 60.69,
+            "weighted-recall": 60.09,
+            "weighted-f1": 59.79
+        },
+        "10": {
+            "macro-precision": 59.64,
+            "macro-recall": 59.67,
+            "macro-f1": 58.87,
+            "weighted-precision": 59.6,
+            "weighted-recall": 59.05,
+            "weighted-f1": 58.76
+        },
+        "11": {
+            "macro-precision": 55.68,
+            "macro-recall": 55.57,
+            "macro-f1": 54.86,
+            "weighted-precision": 56.97,
+            "weighted-recall": 56.58,
+            "weighted-f1": 56.21
+        },
+        "12": {
+            "macro-precision": 56.51,
+            "macro-recall": 56.35,
+            "macro-f1": 55.72,
+            "weighted-precision": 57.16,
+            "weighted-recall": 56.8,
+            "weighted-f1": 56.43
+        }
+    },
+    "svm": {
+        "2": {
+            "macro-precision": 76.40,
+            "macro-recall": 73.91,
+            "macro-f1": 74.78,
+            "weighted-precision": 77.52,
+            "weighted-recall": 77.98,
+            "weighted-f1": 77.44
+        },
+        "3": {
+            "macro-precision": 80.20,
+            "macro-recall": 76.72,
+            "macro-f1": 78.13,
+            "weighted-precision": 78.83,
+            "weighted-recall": 78.80,
+            "weighted-f1": 78.49
+        },
+        "4": {
+            "macro-precision": 72.07,
+            "macro-recall": 69.32,
+            "macro-f1": 70.50,
+            "weighted-precision": 69.60,
+            "weighted-recall": 69.30,
+            "weighted-f1": 69.30
+        },
+        "5": {
+            "macro-precision": 72.93,
+            "macro-recall": 64.60,
+            "macro-f1": 67.46,
+            "weighted-precision": 68.33,
+            "weighted-recall": 67.02,
+            "weighted-f1": 67.03
+        },
+        "6": {
+            "macro-precision": 73.05,
+            "macro-recall": 65.83,
+            "macro-f1": 68.27,
+            "weighted-precision": 69.71,
+            "weighted-recall": 68.44,
+            "weighted-f1": 68.56
+        },
+        "7": {
+            "macro-precision": 71.68,
+            "macro-recall": 62.09,
+            "macro-f1": 65.34,
+            "weighted-precision": 68.18,
+            "weighted-recall": 66.53,
+            "weighted-f1": 66.63
+        },
+        "8": {
+            "macro-precision": 66.45,
+            "macro-recall": 57.99,
+            "macro-f1": 60.87,
+            "weighted-precision": 62.03,
+            "weighted-recall": 60.41,
+            "weighted-f1": 60.64
+        },
+        "9": {
+            "macro-precision": 65.63,
+            "macro-recall": 55.08,
+            "macro-f1": 58.23,
+            "weighted-precision": 60.96,
+            "weighted-recall": 59.09,
+            "weighted-f1": 59.11
+        },
+        "10": {
+            "macro-precision": 65.46,
+            "macro-recall": 54.01,
+            "macro-f1": 57.56,
+            "weighted-precision": 60.27,
+            "weighted-recall": 57.97,
+            "weighted-f1": 58.09
+        },
+        "11": {
+            "macro-precision": 63.38,
+            "macro-recall": 49.49,
+            "macro-f1": 52.53,
+            "weighted-precision": 58.49,
+            "weighted-recall": 55.94,
+            "weighted-f1": 55.35
+        },
+        "12": {
+            "macro-precision": 63.77,
+            "macro-recall": 50.06,
+            "macro-f1": 53.29,
+            "weighted-precision": 58.53,
+            "weighted-recall": 55.80,
+            "weighted-f1": 55.34
+        }
+    },
+    "mlp_glove": {
+        "2": {
+            "macro-precision": 77.31,
+            "macro-recall": 76.83,
+            "macro-f1": 77.05,
+            "weighted-precision": 79.09,
+            "weighted-recall": 79.24,
+            "weighted-f1": 79.15
+        },
+        "3": {
+            "macro-precision": 78.75,
+            "macro-recall": 78.97,
+            "macro-f1": 78.79,
+            "weighted-precision": 78.96,
+            "weighted-recall": 79.31,
+            "weighted-f1": 79.08
+        },
+        "4": {
+            "macro-precision": 69.95,
+            "macro-recall": 71.12,
+            "macro-f1": 70.49,
+            "weighted-precision": 69.02,
+            "weighted-recall": 69.06,
+            "weighted-f1": 69.01
+        },
+        "5": {
+            "macro-precision": 66.76,
+            "macro-recall": 67.36,
+            "macro-f1": 66.86,
+            "weighted-precision": 65.81,
+            "weighted-recall": 66.12,
+            "weighted-f1": 65.68
+        },
+        "6": {
+            "macro-precision": 69.16,
+            "macro-recall": 68.26,
+            "macro-f1": 68.49,
+            "weighted-precision": 68.09,
+            "weighted-recall": 68.44,
+            "weighted-f1": 68.09
+        },
+        "7": {
+            "macro-precision": 64.15,
+            "macro-recall": 66.13,
+            "macro-f1": 64.81,
+            "weighted-precision": 65.87,
+            "weighted-recall": 65.78,
+            "weighted-f1": 65.64
+        },
+        "8": {
+            "macro-precision": 61.49,
+            "macro-recall": 62.79,
+            "macro-f1": 61.83,
+            "weighted-precision": 61.51,
+            "weighted-recall": 61.67,
+            "weighted-f1": 61.40
+        },
+        "9": {
+            "macro-precision": 57.95,
+            "macro-recall": 59.48,
+            "macro-f1": 58.34,
+            "weighted-precision": 59.12,
+            "weighted-recall": 59.41,
+            "weighted-f1": 58.95
+        },
+        "10": {
+            "macro-precision": 57.54,
+            "macro-recall": 59.06,
+            "macro-f1": 57.88,
+            "weighted-precision": 58.54,
+            "weighted-recall": 58.96,
+            "weighted-f1": 58.31
+        },
+        "11": {
+            "macro-precision": 52.02,
+            "macro-recall": 55.56,
+            "macro-f1": 53.18,
+            "weighted-precision": 55.33,
+            "weighted-recall": 55.15,
+            "weighted-f1": 54.69
+        },
+        "12": {
+            "macro-precision": 53.27,
+            "macro-recall": 56.51,
+            "macro-f1": 54.14,
+            "weighted-precision": 56.37,
+            "weighted-recall": 55.62,
+            "weighted-f1": 55.42
+        }
+    }
+}

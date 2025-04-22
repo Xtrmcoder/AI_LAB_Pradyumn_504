@@ -1,0 +1,44 @@
+
+Method: svm, # genres: 2
+[Macro]    P: 76.45   R: 73.98   F1: 74.84
+[Weighted] P: 77.57   R: 78.03   F1: 77.49
+
+Method: svm, # genres: 3
+[Macro]    P: 80.17   R: 76.7   F1: 78.1
+[Weighted] P: 78.82   R: 78.8   F1: 78.48
+
+Method: svm, # genres: 4
+[Macro]    P: 71.97   R: 69.2   F1: 70.38
+[Weighted] P: 69.46   R: 69.16   F1: 69.15
+
+Method: svm, # genres: 5
+[Macro]    P: 72.94   R: 64.6   F1: 67.46
+[Weighted] P: 68.35   R: 67.04   F1: 67.05
+
+Method: svm, # genres: 6
+[Macro]    P: 72.97   R: 65.8   F1: 68.23
+[Weighted] P: 69.67   R: 68.42   F1: 68.54
+
+Method: svm, # genres: 7
+[Macro]    P: 71.57   R: 62.05   F1: 65.28
+[Weighted] P: 68.08   R: 66.46   F1: 66.55
+
+Method: svm, # genres: 8
+[Macro]    P: 66.41   R: 57.92   F1: 60.82
+[Weighted] P: 62.0   R: 60.37   F1: 60.6
+
+Method: svm, # genres: 9
+[Macro]    P: 65.56   R: 55.04   F1: 58.19
+[Weighted] P: 60.88   R: 59.01   F1: 59.03
+
+Method: svm, # genres: 10
+[Macro]    P: 65.42   R: 54.01   F1: 57.55
+[Weighted] P: 60.26   R: 57.97   F1: 58.09
+
+Method: svm, # genres: 11
+[Macro]    P: 63.4   R: 49.5   F1: 52.54
+[Weighted] P: 58.5   R: 55.96   F1: 55.36
+
+Method: svm, # genres: 12
+[Macro]    P: 63.71   R: 50.07   F1: 53.28
+[Weighted] P: 58.52   R: 55.82   F1: 55.35

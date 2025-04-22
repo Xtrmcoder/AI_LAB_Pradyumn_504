@@ -1,0 +1,44 @@
+
+Method: naive_bayes_multinomial, # genres: 2
+[Macro]    P: 73.6   R: 75.03   F1: 74.03
+[Weighted] P: 76.73   R: 75.5   F1: 75.86
+
+Method: naive_bayes_multinomial, # genres: 3
+[Macro]    P: 76.08   R: 78.63   F1: 77.06
+[Weighted] P: 77.3   R: 76.47   F1: 76.57
+
+Method: naive_bayes_multinomial, # genres: 4
+[Macro]    P: 68.65   R: 71.32   F1: 69.57
+[Weighted] P: 68.82   R: 68.3   F1: 68.18
+
+Method: naive_bayes_multinomial, # genres: 5
+[Macro]    P: 69.36   R: 68.9   F1: 68.51
+[Weighted] P: 67.97   R: 67.11   F1: 67.06
+
+Method: naive_bayes_multinomial, # genres: 6
+[Macro]    P: 69.89   R: 69.19   F1: 68.78
+[Weighted] P: 69.08   R: 68.4   F1: 68.23
+
+Method: naive_bayes_multinomial, # genres: 7
+[Macro]    P: 66.97   R: 67.17   F1: 66.37
+[Weighted] P: 67.28   R: 66.74   F1: 66.52
+
+Method: naive_bayes_multinomial, # genres: 8
+[Macro]    P: 62.3   R: 62.94   F1: 61.83
+[Weighted] P: 61.66   R: 61.24   F1: 60.92
+
+Method: naive_bayes_multinomial, # genres: 9
+[Macro]    P: 60.98   R: 60.41   F1: 59.82
+[Weighted] P: 60.69   R: 60.09   F1: 59.79
+
+Method: naive_bayes_multinomial, # genres: 10
+[Macro]    P: 59.64   R: 59.67   F1: 58.87
+[Weighted] P: 59.6   R: 59.05   F1: 58.76
+
+Method: naive_bayes_multinomial, # genres: 11
+[Macro]    P: 55.68   R: 55.57   F1: 54.86
+[Weighted] P: 56.97   R: 56.58   F1: 56.21
+
+Method: naive_bayes_multinomial, # genres: 12
+[Macro]    P: 56.51   R: 56.35   F1: 55.72
+[Weighted] P: 57.16   R: 56.8   F1: 56.43

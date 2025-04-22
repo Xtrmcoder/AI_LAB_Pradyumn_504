@@ -1,0 +1,44 @@
+
+Method: naive_bayes_bernoulli, # genres: 2
+[Macro]    P: 77.69   R: 78.3   F1: 77.96
+[Weighted] P: 79.94   R: 79.66   F1: 79.77
+
+Method: naive_bayes_bernoulli, # genres: 3
+[Macro]    P: 80.77   R: 80.45   F1: 80.55
+[Weighted] P: 80.75   R: 80.26   F1: 80.46
+
+Method: naive_bayes_bernoulli, # genres: 4
+[Macro]    P: 73.12   R: 73.55   F1: 73.19
+[Weighted] P: 72.25   R: 71.63   F1: 71.83
+
+Method: naive_bayes_bernoulli, # genres: 5
+[Macro]    P: 73.39   R: 71.49   F1: 72.11
+[Weighted] P: 71.46   R: 70.61   F1: 70.83
+
+Method: naive_bayes_bernoulli, # genres: 6
+[Macro]    P: 73.34   R: 70.92   F1: 71.64
+[Weighted] P: 71.53   R: 70.57   F1: 70.79
+
+Method: naive_bayes_bernoulli, # genres: 7
+[Macro]    P: 68.0   R: 68.41   F1: 66.85
+[Weighted] P: 69.42   R: 67.16   F1: 67.63
+
+Method: naive_bayes_bernoulli, # genres: 8
+[Macro]    P: 64.27   R: 64.36   F1: 62.98
+[Weighted] P: 64.04   R: 62.25   F1: 62.39
+
+Method: naive_bayes_bernoulli, # genres: 9
+[Macro]    P: 63.38   R: 61.67   F1: 61.07
+[Weighted] P: 62.98   R: 61.12   F1: 61.21
+
+Method: naive_bayes_bernoulli, # genres: 10
+[Macro]    P: 61.84   R: 61.89   F1: 60.31
+[Weighted] P: 62.37   R: 60.43   F1: 60.46
+
+Method: naive_bayes_bernoulli, # genres: 11
+[Macro]    P: 58.42   R: 57.7   F1: 56.37
+[Weighted] P: 59.81   R: 58.37   F1: 58.08
+
+Method: naive_bayes_bernoulli, # genres: 12
+[Macro]    P: 58.44   R: 58.03   F1: 56.7
+[Weighted] P: 59.57   R: 58.24   F1: 57.94
