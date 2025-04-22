@@ -2,12 +2,10 @@
 
 **Name:** Pradyumn Waghmare  
 **PRN:** 23070521504  
-**Institution:** [Your University Name]  
-**Course:** [Course Name]  
+**Institution:** Symbiosis Institute of Technology
+**Course:** Artificial Intelligence Lab
 
-![AI Lab Banner](https://via.placeholder.com/800x200.png?text=AI+Lab+Projects) *← Consider adding an actual banner image here*
 
----
 
 ## 📚 Assignment Portfolio
 
